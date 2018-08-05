@@ -8,3 +8,9 @@ body {
   color: #BB8fce;
   font-style: italic;
 }
+img {
+  float: right;
+}
+.mine {
+  text-decoration: underline;
+}
