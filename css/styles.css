@@ -19,3 +19,7 @@ img {
   font-style: italic;
   font-size-adjust: auto;
 }
+.projects {
+  text-align: center;
+  text-decoration: underline;
+}
