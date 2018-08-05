@@ -14,3 +14,8 @@ img {
 .mine {
   text-decoration: underline;
 }
+.info {
+  color: #424949;
+  font-style: italic;
+  font-size-adjust: auto;
+}
