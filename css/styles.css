@@ -43,3 +43,6 @@ img {
   font-family: sans-serif;
   color: #bb8fce;
 }
+.project ol a {
+  font-weight: bold;
+}
