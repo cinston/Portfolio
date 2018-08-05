@@ -46,3 +46,9 @@ img {
 .project ol a {
   font-weight: bold;
 }
+.test-box {
+  border: 3px solid purple;
+  padding: 7px;
+  margin: 20px;
+  background-color: blue;
+}
