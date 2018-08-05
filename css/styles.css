@@ -20,9 +20,11 @@ img {
   font-size-adjust: auto;
 }
 .projects {
-  text-align: center;
   text-decoration: underline;
 }
 .project {
   font-family: sans-serif;
+}
+.about {
+  text-decoration: underline;
 }
