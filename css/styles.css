@@ -27,4 +27,19 @@ img {
 }
 .about {
   text-decoration: underline;
+}.experience {
+  font-family: sans-serif;
+  color: #bb8fce;
+}
+.school {
+  font-family: sans-serif;
+  color: #bb8fce;
+}
+.skills {
+  font-family: sans-serif;
+  color: #bb8fce;
+}
+.hobby {
+  font-family: sans-serif;
+  color: #bb8fce;
 }
